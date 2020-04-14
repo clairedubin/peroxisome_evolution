@@ -1,14 +1,17 @@
-<b> PAML/CodeML pipeline <b>
-  
-  Useful links:
-  
-  http://abacus.gene.ucl.ac.uk/software/paml.html
-  
-  http://abacus.gene.ucl.ac.uk/software/pamlDOC.pdf
+<b> PAML/CodeML pipeline </b>
+ 
 
-  The sequence data I used are from:
+  <b> Sequence Data Sources </b>
+  
+  <body>
   
   Shen et al. 2018 via 10.6084/m9.figshare.5854692 and http://www.saccharomycessensustricto.org/
+  
+  <body/>
+  
+ <b> File Usage <b> 
+  
+ <body>
   
   make_trees_031620.ipynb creates a custom tree for each gene in the genome by pruning the input tree to only include strains for which we have sequences data.
   
@@ -17,3 +20,15 @@
   codeml_ctl_file.txt is a template control file for input into CodeML.
   
   paml_resampling_031720.ipynb parses and analyzes CodeML output files via a permutation/resampling statistical test.
+
+</body>
+  
+ <b> Useful Links </b>
+  
+  <body>
+  
+  http://abacus.gene.ucl.ac.uk/software/paml.html
+  
+  http://abacus.gene.ucl.ac.uk/software/pamlDOC.pdf
+  
+  </body>
