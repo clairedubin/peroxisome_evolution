@@ -4,7 +4,7 @@
 
 Scripts used for ["Divergence of peroxisome membrane gene sequence and expression between yeast species"](https://www.g3journal.org/content/10/6/2079)
 
-Raw data will be posted on FigShare and the link will appear here when published.
+Raw data is on [figshare.](https://gsajournals.figshare.com/articles/Supplemental_Material_for_Dubin_Roop_and_Brem_2020/12124485)
 
 See README.md in each folder for usage.
 
